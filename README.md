@@ -13,11 +13,10 @@ The webpage was created using **HTML only** and demonstrates:
 
 ## Live Site
 GitHub Pages:  
-https://danielemm01.github.io/web-development-lab-1/
+https://danielemm01.github.io/web-lab-1/
 
 ## Validation
 The HTML file was validated using the W3C Markup Validation Service with no errors.
 
 ## Author
 Daniel Manzano
-
